@@ -13,5 +13,6 @@ Sebelum memulai pastikan sudah clone repo ini dan terhubung dengan git
 TIDAK BOLEH MEMASUKAN CONTENT DI HALAMAN HTML SEMUANYA CONTENT HTML HARUS ADA DI JAVASCRIPT BERMAIN DOM DAN IMPORT EXPORT FUNCTION!
 
 ## Helpful Links 👍👍
-Link belajar function javascript  [Dokumentai import &](https://javascript.info/import-export).
+Link belajar javascript [Dokumentai import & export](https://javascript.info/import-export).
+Link belajar command GIT [GIT Command Dokumentasi](https://github.com/datascienceid/panduan-github).
 
