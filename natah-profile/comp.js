@@ -68,7 +68,7 @@ function btnKembali() {
     backButton.style.padding = "10px 30px";
     backButton.style.alignItems = "center";
     backButton.addEventListener("click", function() {
-        window.location.href = "./index.html"
+        window.location.href = "../index.html"
         backButton.style.backgroundColor = "rgb(48, 0, 0)"
     })
     kontener.appendChild(backButton)
