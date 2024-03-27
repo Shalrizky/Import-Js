@@ -1,32 +1,32 @@
 "use strict";
 
-// const wrapper = document.getElementById("wrapper")
+const wrapper = document.getElementById("wrapper")
 
-// function header(component, textHeader) {
-//    component.textContent = textHeader;
-//    wrapper.appendChild(component);
-// }
+function header(component, textHeader) {
+   component.textContent = textHeader;
+   wrapper.appendChild(component);
+}
 
-// function describeMe() {
-//    const deskripsi = document.getElementById("deskripsi");
-//    deskripsi.textContent = "Saya adalah seorang superman";
-//    wrapper.appendChild(deskripsi)
+function describeMe() {
+   const deskripsi = document.getElementById("deskripsi");
+   deskripsi.textContent = "Saya adalah seorang superman";
+   wrapper.appendChild(deskripsi)
    
-// }
+}
 
-// function keahlian(...textList) {
+function keahlian(...textList) {
    
-//    textList.forEach(text => {
-//       let list = document.createElement("li");
-//       // unorderList.appendChild = list;
-//       list.textContent = text;
-//       wrapper.appendChild(list)
-//    })
+   textList.forEach(text => {
+      let list = document.createElement("li");
+      // unorderList.appendChild = list;
+      list.textContent = text;
+      wrapper.appendChild(list)
+   })
   
-// }
+}
 
 
-// export {header, describeMe, keahlian};
+export {header, describeMe, keahlian};
 
 const container = document.getElementById("container");
 
